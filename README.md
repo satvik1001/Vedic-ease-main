@@ -1,73 +1,71 @@
-# Welcome to your Lovable project
+🌿 Vedic Ease
 
-## Project info
+A therapy management platform built with Vite + React + TypeScript + Tailwind CSS + shadcn/ui that connects doctors, patients, and administrators through an all-in-one dashboard system.
 
-**URL**: https://lovable.dev/projects/4a6f8481-0d66-43fa-9896-6b064fdbd3da
+🔗 Live Project: https://vedic-ease-main-git-main-satvik1001s-projects.vercel.app/
 
-## How can I edit this code?
+✨ Features
+👨‍⚕️ Doctor Dashboard
 
-There are several ways of editing your application.
+Manage therapy schedules.
 
-**Use Lovable**
+Connect with patients via video calls.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4a6f8481-0d66-43fa-9896-6b064fdbd3da) and start prompting.
+Track patient progress and reminders.
 
-Changes made via Lovable will be committed automatically to this repo.
+🧑‍🤝‍🧑 Patient Dashboard
 
-**Use your preferred IDE**
+Create an account and securely log in.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Receive personalized therapy schedules.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Get reminders for therapy sessions.
 
-Follow these steps:
+Access video resources if a session is missed.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+Join therapy appointments via video call.
+
+🛡️ Administrator Dashboard
+
+Full access to manage platform users.
+
+Only administrators can create new administrators.
+
+Manage doctors, patients, and therapy sessions.
+
+🛠️ Tech Stack
+
+Frontend: React + TypeScript
+
+Bundler: Vite
+
+Styling: Tailwind CSS + shadcn/ui
+
+Features: Video Call Integration, Reminders, Therapy Management
+
+Deployment: Lovable
+
+💻 Getting Started
+1️⃣ Clone the Repository
 git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+2️⃣ Install Dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+3️⃣ Run Locally
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Your app will be live on 👉 http://localhost:5173
 
-**Use GitHub Codespaces**
+📦 Build for Production
+npm run build
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+Optimized files will be available in the dist/ folder.
 
-This project is built with:
+🌍 Deployment
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/4a6f8481-0d66-43fa-9896-6b064fdbd3da) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+This project is deployed via Lovable:
+🔗 Vedic Ease Live :- https://vedic-ease-main-git-main-satvik1001s-projects.vercel.app/
