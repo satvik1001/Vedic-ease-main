@@ -43,7 +43,7 @@ Styling: Tailwind CSS + shadcn/ui
 
 Features: Video Call Integration, Reminders, Therapy Management
 
-Deployment: Lovable
+Deployment: Vercel
 
 💻 Getting Started
 1️⃣ Clone the Repository
@@ -57,7 +57,7 @@ npm install
 npm run dev
 
 
-Your app will be live on 👉 http://localhost:5173
+Your app will be live on 👉 http://localhost:8080/
 
 📦 Build for Production
 npm run build
@@ -67,5 +67,5 @@ Optimized files will be available in the dist/ folder.
 
 🌍 Deployment
 
-This project is deployed via Lovable:
+This project is deployed via Vercel:
 🔗 Vedic Ease Live :- https://vedic-ease-main-git-main-satvik1001s-projects.vercel.app/
